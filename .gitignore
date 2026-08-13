@@ -1,0 +1,61 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ===== Virtual Environment =====
+.venv/
+venv/
+env/
+ENV/
+
+# ===== IDE / Editor =====
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ===== Logs =====
+*.log
+logs/
+
+# ===== Local Database =====
+*.db
+*.sqlite
+*.sqlite3
+
+# ===== Environment / Secrets =====
+.env
+.env.*
+*.key
+*.pem
+config/secrets.json
+config/local_settings.py
+
+# ===== Selenium / Chrome runtime data =====
+chrome_profiles/
+chrome_data/
+*.crdownload
+geckodriver.log
+chromedriver.log
+
+# ===== Packaging output (Phase 19) =====
+*.spec
+*.exe
+release/
+
+# ===== Cache =====
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/

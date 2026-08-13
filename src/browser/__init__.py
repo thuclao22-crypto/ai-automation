@@ -1,0 +1,1 @@
+"""Browser module for browser automation and content extraction."""

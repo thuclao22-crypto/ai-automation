@@ -1,0 +1,1 @@
+"""Core module for social media publishing functionality."""

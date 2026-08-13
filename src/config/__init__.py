@@ -1,0 +1,1 @@
+"""Configuration module for settings and preferences management."""
